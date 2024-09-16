@@ -1,0 +1,6 @@
+fastapi==0.95.0
+uvicorn==0.22.0
+SQLAlchemy==1.4.39
+python-jose==3.3.0  # Provides jwt, JWTError
+passlib==1.7.4  # For password hashing
+pydantic==1.10.7  # (if using Pydantic for data validation)
