@@ -25,6 +25,7 @@ git clone <repository-url>
 ```
 
 ## Project Structure .
+```bash
 ├── app
 │   ├── api
 │   │   └── v1
@@ -41,3 +42,4 @@ git clone <repository-url>
 │   └── main.py
 ├── requirements.txt
 └── README.md
+```
