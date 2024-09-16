@@ -52,3 +52,20 @@ pip install -r requirements.txt
 ├── requirements.txt
 └── README.md
 ```
+## Sample Claims - Future will be developed based on client's requirement
+```bash
+{
+    "userId": 123,
+    "iss": "healthcare_system",
+    "sub": "subject_of_token",
+    "aud": "healthcare_users",
+    "exp": 1726532650.693284,
+    "nbf": 1726532589,
+    "iat": 1726532589,
+    "jti": "unique_jwt_id_123",
+    "roles": [
+        "admin",
+        "user"
+    ]
+}
+```
