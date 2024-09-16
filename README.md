@@ -3,7 +3,7 @@
 **Author:** Duc Minh Nguyen
 
 ## Overview
-This is a demo Healthcare Management System (HMS) API built using the FastAPI framework. It is designed to provide a secure and scalable solution for managing healthcare data, including user management, patient records, appointment scheduling, and medical prescriptions. The project follows Clean Architecture to ensure modularity and maintainability.
+This is a demo Healthcare Management System (HMS) API built using the FastAPI framework. It is designed to provide a secure and scalable solution for managing healthcare data, including user management, patient records, appointment scheduling, and medical prescriptions. The project follows Clean Architecture and Microservices to ensure modularity, scalability and maintainability.
 
 ## Features
 - **User Management:** Registration, login, and role-based access control (patients, healthcare providers, administrators).
