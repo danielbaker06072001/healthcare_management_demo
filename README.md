@@ -22,3 +22,22 @@ This is a demo Healthcare Management System (HMS) API built using the FastAPI fr
 Clone the repository:
 ```bash
 git clone <repository-url>
+```
+
+## Project Structure .
+├── app
+│   ├── api
+│   │   └── v1
+│   │       ├── token_routes.py
+│   ├── core
+│   │   └── token_service.py
+│   ├── domain
+│   │   └── models
+│   │       ├── user_claims.py
+│   ├── infrastructure
+│   │   ├── db
+│   │   └── repositories
+│   │       └── sql_token_repository.py
+│   └── main.py
+├── requirements.txt
+└── README.md
