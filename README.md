@@ -21,7 +21,16 @@ This is a demo Healthcare Management System (HMS) API built using the FastAPI fr
 ## Installation
 Clone the repository:
 ```bash
+# 1. Clone the repository
 git clone <repository-url>
+cd healthcare-management-system
+
+# 2. (Optional) Create and activate a virtual environment
+python3 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# 3. Install the dependencies
+pip install -r requirements.txt
 ```
 
 ## Project Structure .
