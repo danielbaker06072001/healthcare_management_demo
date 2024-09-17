@@ -23,7 +23,7 @@ Clone the repository:
 ```bash
 # 1. Clone the repository
 git clone <repository-url>
-cd healthcare-management-system
+cd healthcare_system
 
 # 2. (Optional) Create and activate a virtual environment
 python3 -m venv venv
